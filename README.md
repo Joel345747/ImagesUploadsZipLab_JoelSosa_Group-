@@ -1,4 +1,4 @@
-# ImagesUploadsZipLab_JoelSosa_Group.zip
+# ImagesUploadsZipLab_JoelSosa_Group1.zip
 import tkinter as tk
 
 cat = tk.Tk()
